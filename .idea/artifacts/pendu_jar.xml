@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="pendu:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/pendu_jar</output-path>
+    <root id="archive" name="pendu.jar">
+      <element id="module-output" name="pendu" />
+    </root>
+  </artifact>
+</component>
